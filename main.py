@@ -27,7 +27,7 @@ except FileNotFoundError:
 
 if change_settings:
     if "1" in settings_to_change:
-        info["api_key"] = input("New api key > ")
+        info["api_key"] = input("New api key (https://parcelsapp.com/dashboard/#/admin/dashboard) > ")
     if "2" in settings_to_change:
         info["tracking_id"] = input("New tracking ID > ")
     if "3" in settings_to_change:
