@@ -1,0 +1,6 @@
+{
+  "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIyOWNkNWU2MC1hYzJmLTExZWYtYTc0Ny1hN2VjMDEyY2Q2MzUiLCJzdWJJZCI6IjY3NDYyNWEzNGJkYjMyNDczMjA3MzU3NCIsImlhdCI6MTczMjY1MDQwM30.BteXLxyGBpnwPr98o00LVeMqvaCRS3I94QNtgLe-Wl8",
+  "tracking_id": 7324588132574928,
+  "country": "Canada",
+  "banned": ["Canada Post", "Temu"]
+}
